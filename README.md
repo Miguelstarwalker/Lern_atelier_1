@@ -20,7 +20,8 @@
 ## 4. Tag
 ### Ziele
 1. Lerngespräch haben und durch dem reflektieren und Aarbeitsweise ändern wenn nötig.
-2. Modul 319 Mission 8 vervollständingen, somit ich mehr Zeit für 9 & 10 habe (laut einige ist es lange).
-3. Modul 431 1712 erledigen, somit ich nicht zu langsam im Plan werde.
+2. Modul 319 Mission 7 (704) abgeben.
+3. Modul 319 Mission 8 vervollständingen, somit ich mehr Zeit für 9 & 10 habe (laut einige ist es lange).
+4. Modul 431 1712 erledigen, somit ich nicht zu langsam im Plan werde.
 
 
