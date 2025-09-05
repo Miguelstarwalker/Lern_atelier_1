@@ -16,4 +16,11 @@
 1. Ich möchte alles von Lernatelier heute beenden, somit ich bei der "Selbst-Arbeit" starten kann.
 2. Modul 431 aufgabe 11 vervollständigen, somit ich wieder im Tempo bin und nicht zurückfalle.
 3. Modul 319 bis und mit Mission 6 somit ich mehr Zeit habe für Aufgabe 7 (laut einigen dauert es lange).
+# Lern_atelier_1
+## 4. Tag
+### Ziele
+1. Lerngespräch haben und durch dem reflektieren und Aarbeitsweise ändern wenn nötig.
+2. Modul 319 Mission 8 vervollständingen, somit ich mehr Zeit für 9 & 10 habe (laut einige ist es lange).
+3. Modul 431 1712 erledigen, somit ich nicht zu langsam im Plan werde.
+
 
