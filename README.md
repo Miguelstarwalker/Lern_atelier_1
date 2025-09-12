@@ -34,7 +34,7 @@ Reflexion 22.08.2025: Heute habe ich alle nötige Lernatelier aufgaben gemacht f
 
 
 
-alte Version der Planung als context.
+alte Version der Planung als context (was NICHT zu machen).
 # Lern_atelier_1
 ## 1. Tag
 ### Ziele
