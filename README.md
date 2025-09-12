@@ -28,7 +28,7 @@ Reflexion 22.08.2025: Heute habe ich alle nötige Lernatelier aufgaben gemacht f
 2. "Cheatsheet" für Modul 319 mit Saskia (evtl. auch Zehra) fertig machen (mindest. mehr Hinzufügen).
 3. Modul 431 Aufgaben, welche ich am Dienstag gemacht habe, abegeben (wenn nicht Samstag letzter Tag ohne Ausnahmen).
 ## Reflexion 12.09.2025
--
+Eigentlich sehr gut gelaufen. Aufträge wurden erledigt, hatte Zeit um ein eigenes Programmier Projekt zu machen. Hat sehr viel Spass gemacht heute!
 
 
 
