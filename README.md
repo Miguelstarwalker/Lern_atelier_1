@@ -30,6 +30,12 @@ Reflexion 22.08.2025: Heute habe ich alle nötige Lernatelier aufgaben gemacht f
 ## Reflexion 12.09.2025
 Eigentlich sehr gut gelaufen. Aufträge wurden erledigt, hatte Zeit um ein eigenes Programmier Projekt zu machen. Hat sehr viel Spass gemacht heute!
 
+## Planung 19.09.2025 (Letztes mal vor Ferien)
+1. Bis zu Handlungsziel 4 Modul 431 fertig sein.
+2. Cheatsheet fertig mit allem Modul 319. 
+3. -
+
+
 
 
 
