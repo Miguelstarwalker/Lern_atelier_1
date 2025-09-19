@@ -33,8 +33,8 @@ Eigentlich sehr gut gelaufen. Aufträge wurden erledigt, hatte Zeit um ein eigen
 ## Planung 19.09.2025 (Letztes mal vor Ferien)
 1. Bis zu Handlungsziel 4 Modul 431 fertig sein.
 2. Cheatsheet fertig mit allem Modul 319. 
-3. -
-## Reflexion 12.09.2025 (Letztes mal vor Ferien)
+3. Video fertig stellen für Modul 431.
+## Reflexion 19.09.2025 (Letztes mal vor Ferien)
 -
 
 
