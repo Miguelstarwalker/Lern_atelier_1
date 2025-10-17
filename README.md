@@ -1,7 +1,28 @@
-# Lern_atelier_1
-## 1. Tag
-### Ziele
-1. Als erstes möchte ich Modul 431 aufhollen(Mission 1, 2 und 3), denn ich am Dienstag Probleme mit einloggen des Moodles Account.
-2. Nachdem mache ich weiter mit Modul 319 Mission 2, denn ich stecken geblieben bin bei Aufgabe 1.(Programmieren)
-3. Als letztes möchte ich bei Modul 319 Mission 3 die Hälfte vervollständingen somit ich bei der nächste Mittwoch Iap Lektion der Plan besser folgen könnte.
-Test
+# Lern-Periode 2
+Name: Ferreira Gomes Miguel
+
+17.10.2025 bis Dezember
+
+## Grob-Planung
+### Noten
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Noch keine Noten. Ich möchte mein Bestes geben. Noten nächste Woche (Update needed)
+
+### Veränderungen
+Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Früher am start wissen was zu machen, denn ich hatte Schwierigkeiten was hier zu schreiben.
+
+### Projekte / neue Technologien
+Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+-Den Programier Projekt gut dran arbeiten (Moodle 319 wird nächste Woche beendet und neuer Modul wäre in 2 Wochen, Update needed)
+-(Update nach Modul Abschluss von 431 und 319)
+### Generelle Ziele
+Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+-C# weiter vertiefen und den Projekt vollständig fertig erstellen.
+-(Update nach Modul Abschluss von 431 und 319)
+## Planung 12.09.2025
+1. -Neue Lernperiode erstellen.
+2. -Video für Modul 431 mit Saskia und Zehra fertig erstellen.
+3. -Modu 319 repetition. (evtl. wenn Zeit OBA fertig machen)
+## Reflexion 17.10.2025
+-
