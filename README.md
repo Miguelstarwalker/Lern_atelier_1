@@ -6,7 +6,7 @@ Name: Ferreira Gomes Miguel
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Noch keine Noten. Ich möchte mein Bestes geben. Noten nächste Woche (Update needed)
+Noch keine Noten. Ich möchte mein Bestes geben. Test nächste Woche (Update needed)
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
@@ -31,4 +31,9 @@ Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
 2. -PC Kontrolle (Updates? Software?)
 3. -(eigentlich Frei bei Informatik aufgaben, denn noch kein neuer Modul begonnen wurde, freie Arbeit für Schule, z.B Frei Programmieren)
 ## Reflexion 24.10.2025
+-
+## Planung 31.10.2025
+1. Programmier Projekt weiterführen (mehr Info bekommen wir am Mittwoch).
+2. (Modul offen, noch keinen gestartet, UPDATE needed)
+## Reflexion 31.10.2025
 -
