@@ -31,7 +31,7 @@ Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
 2. -PC Kontrolle (Updates? Software?)
 3. -(eigentlich Frei bei Informatik aufgaben, denn noch kein neuer Modul begonnen wurde, freie Arbeit für Schule, z.B Frei Programmieren) https://www.w3schools.com/cs/index.php
 ## Reflexion 24.10.2025
--
+Alles ist funktionsbereit, Mails wurden gecheckt und bei w3school habe ich einige Aufgaben für C# gemacht.
 ## Planung 31.10.2025
 1. Programmier Projekt weiterführen (mehr Info bekommen wir am Mittwoch).
 2. (Modul offen, noch keinen gestartet, UPDATE needed)
