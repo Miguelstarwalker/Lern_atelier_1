@@ -29,7 +29,7 @@ Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
 ## Planung 24.10.2025
 1. -E-mail durschauen
 2. -PC Kontrolle (Updates? Software?)
-3. -(eigentlich Frei bei Informatik aufgaben, denn noch kein neuer Modul begonnen wurde, freie Arbeit für Schule, z.B Frei Programmieren)
+3. -(eigentlich Frei bei Informatik aufgaben, denn noch kein neuer Modul begonnen wurde, freie Arbeit für Schule, z.B Frei Programmieren) https://www.w3schools.com/cs/index.php
 ## Reflexion 24.10.2025
 -
 ## Planung 31.10.2025
