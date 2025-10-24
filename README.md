@@ -1,7 +1,7 @@
 # Lern-Periode 2
 Name: Ferreira Gomes Miguel
 
-17.10.2025 bis Dezember
+17.10.2025 bis 19.12.2025
 
 ## Grob-Planung
 ### Noten
