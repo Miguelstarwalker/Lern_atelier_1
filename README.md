@@ -20,9 +20,15 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -C# weiter vertiefen und den Projekt vollständig fertig erstellen.
 -(Update nach Modul Abschluss von 431 und 319)
-## Planung 12.09.2025
+## Planung 17.10.2025
 1. -Neue Lernperiode erstellen.
 2. -Video für Modul 431 mit Saskia und Zehra fertig erstellen.
 3. -Modu 319 repetition. (evtl. wenn Zeit OBA fertig machen)
 ## Reflexion 17.10.2025
+Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
+## Planung 24.10.2025
+1. -E-mail durschauen
+2. -PC Kontrolle (Updates? Software?)
+3. -(eigentlich Frei bei Informatik aufgaben, denn noch kein neuer Modul begonnen wurde, freie Arbeit für Schule)
+## Reflexion 24.10.2025
 -
