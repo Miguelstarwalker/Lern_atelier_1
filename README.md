@@ -36,5 +36,8 @@ Alles ist funktionsbereit, Mails wurden gecheckt und bei w3school habe ich einig
 - [ ]Programmier Projekt weiter arbeiten.
 - [ ]PC Kontrolle (Updates, mails, weiteres).
 - [ ]W3school Kurs weiter machen (Beginnings beenden).
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
 ## Reflexion 31.10.2025
 -
