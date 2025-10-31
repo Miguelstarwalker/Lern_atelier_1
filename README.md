@@ -34,8 +34,8 @@ Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
 Alles ist funktionsbereit, Mails wurden gecheckt und bei w3school habe ich einige Aufgaben für C# gemacht.
 ## Planung 31.10.2025
 - [x] PC Kontrolle (Updates, mails, weiteres).
-- [ ] W3school Kurs weiter machen (Beginnings beenden).
+- [x] W3school Kurs weiter machen (Beginnings beenden).
 - [x] Programmier Projekt weiter arbeiten.
 ## Reflexion 31.10.2025
--
+Heute hab ich genügend geschlafen, zeigt sich auch wie ich gearbeitet habe. Diesmal hab ich weniger Pausen gemacht, ich sollte mir Zet geben für kleine Pausen. Ich bin mit allen Zielen fertig, bin zufrieden mit mir selbst. 
 
