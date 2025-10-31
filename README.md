@@ -31,9 +31,10 @@ Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
 2. -PC Kontrolle (Updates? Software?)
 3. -(eigentlich Frei bei Informatik aufgaben, denn noch kein neuer Modul begonnen wurde, freie Arbeit für Schule, z.B Frei Programmieren)
 ## Reflexion 24.10.2025
-Erfolgreich gemacht.
+Alle Updates wurden gemacht, die benötigte Software wurde auch geupdated. E-Mails wurden durchgeschaut. Bei W3school habe ich den C# Kurs gestartet.
 ## Planung 31.10.2025
-1. Programmier Projekt weiterführen (mehr Info bekommen wir am Mittwoch).
-2. (Modul offen, noch keinen gestartet, UPDATE needed)
+1. -Programmier Projekt weiter arbeiten.
+2. -PC Kontrolle (Updates, mails, weiteres).
+3. -W3school Kurs weiter machen (Beginnings beenden).
 ## Reflexion 31.10.2025
 -
