@@ -33,7 +33,8 @@ Alles wurde erfolgreich absolviert. Bin zufrieden mit mir selbst.
 ## Reflexion 24.10.2025
 Alles ist funktionsbereit, Mails wurden gecheckt und bei w3school habe ich einige Aufgaben für C# gemacht.
 ## Planung 31.10.2025
-1. Programmier Projekt weiterführen (mehr Info bekommen wir am Mittwoch).
-2. (Modul offen, noch keinen gestartet, UPDATE needed)
+1. -Programmier Projekt weiter arbeiten.
+2. -PC Kontrolle (Updates, mails, weiteres).
+3. -W3school Kurs weiter machen (Beginnings beenden).
 ## Reflexion 31.10.2025
 -
