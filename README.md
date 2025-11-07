@@ -45,4 +45,11 @@ Heute hab ich genügend geschlafen, zeigt sich auch wie ich gearbeitet habe. Die
 - [x] Modul 162 weiterarbeiten
 ## Reflexion 07.11.2025
 Trotz das ich müde bin hab ich erfolgreich alles gemacht, meine Beine tuen so weh von Gestern, muss mich aber dran gewöhnen.
+## Planung 14.11.2025
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] W3school Kurs weiter machen (C# Methods beenden).
+- [ ] Programmier Projekt weiter arbeiten.
+- [ ] Modul 162 weiterarbeiten
+## Reflexion 14.11.2025
+-
 
