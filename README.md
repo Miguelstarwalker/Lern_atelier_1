@@ -39,9 +39,9 @@ Alles ist funktionsbereit, Mails wurden gecheckt und bei w3school habe ich einig
 ## Reflexion 31.10.2025
 Heute hab ich genügend geschlafen, zeigt sich auch wie ich gearbeitet habe. Diesmal hab ich weniger Pausen gemacht, ich sollte mir Zet geben für kleine Pausen. Ich bin mit allen Zielen fertig, bin zufrieden mit mir selbst. Nicht am Ende distrahieren.
 ## Planung 07.11.2025
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] W3school Kurs weiter machen (C# Methods beenden).
-- [ ] Programmier Projekt weiter arbeiten.
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] W3school Kurs weiter machen (C# Methods beenden).
+- [x] Programmier Projekt weiter arbeiten.
 - [ ] Modul 162 weiterarbeiten
 ## Reflexion 07.11.2025
 -
