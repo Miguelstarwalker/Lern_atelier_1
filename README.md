@@ -6,7 +6,8 @@ Name: Ferreira Gomes Miguel
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Noch keine Noten. Ich möchte mein Bestes geben. Test nächste Woche (Update needed)
+Modul 431 5.5
+Modul 319 4
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
@@ -47,7 +48,6 @@ Heute hab ich genügend geschlafen, zeigt sich auch wie ich gearbeitet habe. Die
 Trotz das ich müde bin hab ich erfolgreich alles gemacht, meine Beine tuen so weh von Gestern, muss mich aber dran gewöhnen.
 ## Planung 14.11.2025
 - [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] W3school Kurs weiter machen (C# Methods beenden).
 - [ ] Programmier Projekt weiter arbeiten.
 - [ ] Modul 162 weiterarbeiten
 ## Reflexion 14.11.2025
