@@ -49,7 +49,7 @@ Trotz das ich müde bin hab ich erfolgreich alles gemacht, meine Beine tuen so w
 ## Planung 14.11.2025
 - [x] PC Kontrolle (Updates, mails, weiteres).
 - [ ] Programmier Projekt weiter arbeiten.
-- [ ] Modul 162 weiterarbeiten
+- [x] Modul 162 weiterarbeiten (mindestens Repetition).
 ## Reflexion 14.11.2025
 -
 
