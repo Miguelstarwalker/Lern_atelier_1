@@ -50,11 +50,19 @@ Trotz das ich müde bin hab ich erfolgreich alles gemacht, meine Beine tuen so w
 - [x] PC Kontrolle (Updates, mails, weiteres).
 - [x] Programmier Projekt weiter arbeiten.
 - [x] UNITY Projekt starten, nicht für ein Endprodukt, mehr als Training für Programmieren, Spiel-Design, usw.
-- [x] Modul 162 weiterarbeiten
+- [x] Modul 162 weiterarbeiten (mindestens Repetition).
 ## Reflexion 14.11.2025
 Der Tag war insgesamt produktiv, aber auch herausfordernd. Die PC-Kontrolle ging schnell, doch beim Programmierprojekt stiess ich auf einige Blockaden, die frustrierend waren. Das UNITY-Projekt war nützlich für meine Fähigkeiten im Spiel-Design, aber ich merkte, wie schwer es manchmal ist, ohne klares Ziel zu arbeiten. Das Modul 162 konnte ich grösstenteils wiederholen, doch die Motivation war nicht immer hoch. Insgesamt habe ich viel gelernt,aber ich merke auch, dass ich an meiner Ausdauer arbeiten muss.
 ## Planung 21.11.2025
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Programmier Projekt weiter arbeiten.
+- [ ] UNITY Projekt weiterüben.
+- [x] Modul 162 weiterarbeiten (mindestens Repetition).
+## Reflexion 21.11.2025
+Heute war eigentlich gut, hatte spass mit Saskia und Zehra zuarbeiten. Heutu konnte ich meine Code Analyse wirklich ausnützen und sehen wo die Fehler liegen. Visual Studio hatte ein Update und ich hab Modul 162 repetiert, aber wegen der langer Zusammenarbeit, konnte ich nicht Unity weiter üben, also entschloss ich mir einfach Tutorials anzuhören. Ich habe auch PowerToys gedownloaded, somit ich nicht Copilot öffne, aber das hat nicht so gut funktioniert. Ich muss eine andere Lösung finden. Ich bin sehr zufrieden mit mir selbst :).
+## Planung 28.11.2025
 - [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Programmier Projekt weiter arbeiten.
+- [ ] Programmier Projekt weiter arbeiten. (PPP)
 - [ ] UNITY Projekt weiterüben.
 - [ ] Modul 162 weiterarbeiten (mindestens Repetition).
+- [ ] Lösung zu kein Copilot Knopf finden.
