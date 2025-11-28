@@ -63,6 +63,5 @@ Heute war eigentlich gut, hatte spass mit Saskia und Zehra zuarbeiten. Heutu kon
 ## Planung 28.11.2025
 - [ ] PC Kontrolle (Updates, mails, weiteres).
 - [ ] Programmier Projekt weiter arbeiten. (PPP)
-- [ ] UNITY Projekt weiterüben.
 - [ ] Modul 162 weiterarbeiten (mindestens Repetition).
 - [ ] Lösung zu kein Copilot Knopf finden.
