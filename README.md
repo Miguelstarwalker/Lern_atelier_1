@@ -64,4 +64,4 @@ Heute war eigentlich gut, hatte spass mit Saskia und Zehra zuarbeiten. Heutu kon
 - [x] PC Kontrolle (Updates, mails, weiteres).
 - [x] Programmier Projekt weiter arbeiten. (PPP)
 - [ ] Modul 162 weiterarbeiten (mindestens Repetition).
-- [ ] Lösung zu kein Copilot Knopf finden.
+- [x] Lösung zu kein Copilot Knopf finden.
