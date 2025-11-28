@@ -61,8 +61,13 @@ Der Tag war insgesamt produktiv, aber auch herausfordernd. Die PC-Kontrolle ging
 ## Reflexion 21.11.2025
 Heute war eigentlich gut, hatte spass mit Saskia und Zehra zuarbeiten. Heutu konnte ich meine Code Analyse wirklich ausnützen und sehen wo die Fehler liegen. Visual Studio hatte ein Update und ich hab Modul 162 repetiert, aber wegen der langer Zusammenarbeit, konnte ich nicht Unity weiter üben, also entschloss ich mir einfach Tutorials anzuhören. Ich habe auch PowerToys gedownloaded, somit ich nicht Copilot öffne, aber das hat nicht so gut funktioniert. Ich muss eine andere Lösung finden. Ich bin sehr zufrieden mit mir selbst :).
 ## Planung 28.11.2025
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Programmier Projekt weiter arbeiten. (PPP)
+- [x] Modul 162 weiterarbeiten (mindestens Repetition).
+- [x] Lösung zu kein Copilot Knopf finden.
+## Reflexion 28.11.2025
+Erstens, kein Copilot Knopf Funktion mehr! Ich kann es mit irgendetwas es ersetzen, ich hab bis jetzt es als text "NO AI!!!" und entscheide mir bei meiner Freizeit, was ich es möchte haben. Ich bin müde von der Woche, Abgabe des Programmes, Tests, aber jetzt die nächste Woche ist eine benötigte Pause.  Nur eine Präsentation nächste Woche und es wärst. Alles konnte ich schnell und schön erledigen und ich konnte meine Graphik-design Kräfte mehr ausüben für die PPP. Ich bin müde, aber zufrieden mit mir selbst!
+## Planung 5.12.2025
 - [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Programmier Projekt weiter arbeiten. (PPP)
-- [ ] UNITY Projekt weiterüben.
 - [ ] Modul 162 weiterarbeiten (mindestens Repetition).
-- [ ] Lösung zu kein Copilot Knopf finden.
+- [ ] (Noch nicht entschieden, mehr wird hinzugefügt.)
