@@ -70,4 +70,4 @@ Erstens, kein Copilot Knopf Funktion mehr! Ich kann es mit irgendetwas es ersetz
 ## Planung 5.12.2025
 - [ ] PC Kontrolle (Updates, mails, weiteres).
 - [ ] Modul 162 weiterarbeiten (mindestens Repetition).
-- [ ] (Noch nicht entschieden, mehr wird hinzugefügt.)
+- [ ] Wieder Unity herum experimentieren. (Frei Aufgaben).
