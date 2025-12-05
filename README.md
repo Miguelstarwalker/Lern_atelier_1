@@ -68,6 +68,8 @@ Heute war eigentlich gut, hatte spass mit Saskia und Zehra zuarbeiten. Heutu kon
 ## Reflexion 28.11.2025
 Erstens, kein Copilot Knopf Funktion mehr! Ich kann es mit irgendetwas es ersetzen, ich hab bis jetzt es als text "NO AI!!!" und entscheide mir bei meiner Freizeit, was ich es möchte haben. Ich bin müde von der Woche, Abgabe des Programmes, Tests, aber jetzt die nächste Woche ist eine benötigte Pause.  Nur eine Präsentation nächste Woche und es wärst. Alles konnte ich schnell und schön erledigen und ich konnte meine Graphik-design Kräfte mehr ausüben für die PPP. Ich bin müde, aber zufrieden mit mir selbst!
 ## Planung 5.12.2025
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Modul 162 weiterarbeiten (mindestens Repetition).
-- [ ] Wieder Unity herum experimentieren. (Frei Aufgaben).
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Modul 162 weiterarbeiten (mindestens Repetition).
+- [x] Wieder Unity herum experimentieren. (Frei Aufgaben).
+## Reflexion 5.12.2025
+Alles lief mir gut und ich hab mir entschieden mit Saskia an ihr Rainworld Mod zumitarbeiten. Ich fühle mich absolut fantastisch und war sehr produktiv.
