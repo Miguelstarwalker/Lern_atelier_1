@@ -71,8 +71,12 @@ Erstens, kein Copilot Knopf Funktion mehr! Ich kann es mit irgendetwas es ersetz
 - [x] PC Kontrolle (Updates, mails, weiteres).
 - [x] Modul 162 weiterarbeiten (mindestens Repetition).
 - [x] Wieder Unity herum experimentieren. (Frei Aufgaben).
-## Reflexion 12.12.2025
+## Reflexion 5.12.2025
 Alles lief mir gut und ich hab mir entschieden mit Saskia an ihr Rainworld Mod zumitarbeiten. Ich fühle mich absolut fantastisch und war sehr produktiv.
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Modul 117 vierter Test.
-- [ ] Saskia zusammenarbeit (Rainworld Mod).
+## Planung 12.12.2025
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Modul 117 weiterarbeiten.
+- [x] Saskia zusammenarbeit (Rainworld Mod).
+## Reflexion 12.12.2025
+Mach ich später :(
+
