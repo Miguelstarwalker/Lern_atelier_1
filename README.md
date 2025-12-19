@@ -78,5 +78,8 @@ Alles lief mir gut und ich hab mir entschieden mit Saskia an ihr Rainworld Mod z
 - [x] Modul 117 weiterarbeiten.
 - [x] Saskia zusammenarbeit (Rainworld Mod).
 ## Reflexion 12.12.2025
-Mach ich später :(
-
+Alles lief mir gut, hatte einwenig zu viel spass mit Saskia zu arbeiten, dass ich fast vergessen habe, das Endteil noch zu machen.
+## Planung 19.12.2025
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Modul 117 weiterarbeiten.
+- [ ] Saskia zusammenarbeit (Rainworld Mod).
