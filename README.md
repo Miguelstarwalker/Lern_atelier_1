@@ -25,8 +25,9 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Ich möchte in dieser Lernperiode meine Rain World Mod vervollständigen.
 
 ## Planung 09.01.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Modul 164 weiterarbeiten (mindestens Repetition).
-- [ ] Saskias Rain World Mod mitarbeiten.
-- [ ] Meine Rain World Mod arbeiten.
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Modul 164 weiterarbeiten (mindestens Repetition).
+- [x] Saskias Rain World Mod mitarbeiten.
+- [x] Meine Rain World Mod arbeiten.
 ## Reflexion 09.01.2026
+Heute geht's mir wirklich gut. Rained (Software für unser Rainworld Mod) macht wirklich spass und ich kann meine Kreativität wirklich gut nützen. 
