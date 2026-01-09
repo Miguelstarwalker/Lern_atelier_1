@@ -27,5 +27,6 @@ Ich möchte in dieser Lernperiode meine Rain World Mod vervollständigen.
 ## Planung 09.01.2026
 - [ ] PC Kontrolle (Updates, mails, weiteres).
 - [ ] Modul 164 weiterarbeiten (mindestens Repetition).
-- [ ] Rain World Mod (kann mit Saskia gemacht werden oder nicht) weiter vervollständigen.
+- [ ] Saskias Rain World Mod mitarbeiten.
+- [ ] Meine Rain World Mod arbeiten.
 ## Reflexion 09.01.2026
