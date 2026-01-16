@@ -31,3 +31,7 @@ Ich möchte in dieser Lernperiode meine Rain World Mod vervollständigen.
 - [x] Meine Rain World Mod arbeiten.
 ## Reflexion 09.01.2026
 Heute geht's mir wirklich gut. Rained (Software für unser Rainworld Mod) macht wirklich spass und ich kann meine Kreativität wirklich gut nützen. 
+## Planung 16.01.2026
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Saskias Rain World Mod mitarbeiten.
+- [ ] Meine Rain World Mod arbeiten.
