@@ -38,6 +38,12 @@ Heute geht's mir wirklich gut. Rained (Software für unser Rainworld Mod) macht 
 ## Reflexion 16.01.2026
 Müde, das ist was ich fühle beim Ende der Woche. Heute konnte ich mich gut ausruhen, während ich Sachen mache, welche mir Spass machen. Nächstes mal mach ich das gleiche, somit ich zu eine "Flow" mich führe.
 ## Planung 23.01.2026
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Saskias Rain World Mod mitarbeiten.
+- [x] Meine Rain World Mod arbeiten.
+## Reflexion 23.01.2026
+Heute ist der letzter Tag bevor Sportferien. Heute hab ich viel mehr gemacht und hatte die Motivation, das zu machen. Nächstes Mal mache ich sicher mehr mit den Modulen, denn es was schon eine lange Zeit her, dass ich es hier gemacht habe.
+## Planung  13.02.2026
 - [ ] PC Kontrolle (Updates, mails, weiteres).
 - [ ] Saskias Rain World Mod mitarbeiten.
 - [ ] Meine Rain World Mod arbeiten.
