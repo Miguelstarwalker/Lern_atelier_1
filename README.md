@@ -44,9 +44,9 @@ Müde, das ist was ich fühle beim Ende der Woche. Heute konnte ich mich gut aus
 ## Reflexion 23.01.2026
 Heute ist der letzter Tag bevor Sportferien. Heute hab ich viel mehr gemacht und hatte die Motivation, das zu machen. Nächstes Mal mache ich sicher mehr mit den Modulen, denn es was schon eine lange Zeit her, dass ich es hier gemacht habe.
 ## Planung  13.02.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Saskias Rain World Mod mitarbeiten. (THUMBNAIL KREIEREN WEGEN POOKIE ES BRAUCHT :DDDDDDDD)
-- [ ] Meine Rain World Mod arbeiten.
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Saskias Rain World Mod mitarbeiten. (THUMBNAIL KREIEREN WEGEN POOKIE ES BRAUCHT :DDDDDDDD)
+- [x] Meine Rain World Mod arbeiten.
 ## Reflexion 13.02.2026
 Heute hat es sehr viel mehr Spass gemacht im anderen Raum. Ich fühlte mich absolut gut und produktiv, besonders wo ich für Saskia ihr Thumbnail gemacht habe.
 ## Planung 20.02.2026
