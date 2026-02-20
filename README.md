@@ -50,6 +50,6 @@ Heute ist der letzter Tag bevor Sportferien. Heute hab ich viel mehr gemacht und
 ## Reflexion 13.02.2026
 Heute hat es sehr viel mehr Spass gemacht im anderen Raum. Ich fühlte mich absolut gut und produktiv, besonders wo ich für Saskia ihr Thumbnail gemacht habe.
 ## Planung 20.02.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Saskias Rain World Mod mitarbeiten.
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] NETZWERKLABOR
 - [ ] Meine Rain World Mod arbeiten.
