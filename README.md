@@ -52,4 +52,6 @@ Heute hat es sehr viel mehr Spass gemacht im anderen Raum. Ich fühlte mich abso
 ## Planung 20.02.2026
 - [x] PC Kontrolle (Updates, mails, weiteres).
 - [x] NETZWERKLABOR
-- [ ] Meine Rain World Mod arbeiten.
+- [x] Meine Rain World Mod arbeiten.
+## Reflexion 20.02.2026
+Das gute ist, wir wissen jetzt wie man den Netzwerk schnell aufbauen können für nächstes mal, aber wir müssen noch unserer Lehrperson etwas am Mittwoch fragen. Heute lief gut.
