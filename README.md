@@ -55,3 +55,7 @@ Heute hat es sehr viel mehr Spass gemacht im anderen Raum. Ich fühlte mich abso
 - [x] Meine Rain World Mod arbeiten.
 ## Reflexion 20.02.2026
 Das gute ist, wir wissen jetzt wie man den Netzwerk schnell aufbauen können für nächstes mal, aber wir müssen noch unserer Lehrperson etwas am Mittwoch fragen. Heute lief gut.
+## Planung 27.02.2026
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Saskias Rain World Mod mitarbeiten.
+- [ ] Meine Rain World Mod arbeiten.
