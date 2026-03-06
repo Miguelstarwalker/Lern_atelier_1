@@ -62,6 +62,8 @@ Das gute ist, wir wissen jetzt wie man den Netzwerk schnell aufbauen können fü
 ## Reflexion 27.02.2026
 Ich und Musik. Musik. MMMMMMMMM. Ich produziere Musik für Saskia. Zwei Stücke wurden schon erstellt, YAAAAAAAAAAAAAAAAAY :3 (Ich werde sie auf Youtube aufladen, Link bald hier)
 ## Planung 06.03.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Saskias Rain World Mod mitarbeiten.
-- [ ] Meine Rain World Mod arbeiten.
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Saskias Rain World Mod mitarbeiten.
+- [x] Meine Rain World Mod arbeiten.
+## Reflexion 06.03.2026
+Heute war es viel schwerer Stücke zu prodzieren. Teile wurden gemacht, aber ich finden nichts, mitdem ich zufrieden bin, doch aufgeben ist nicht, was ich soll tuen.
