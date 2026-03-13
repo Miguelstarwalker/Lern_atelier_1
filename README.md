@@ -68,6 +68,8 @@ Ich und Musik. Musik. MMMMMMMMM. Ich produziere Musik für Saskia. Zwei Stücke 
 ## Reflexion 06.03.2026
 Heute war es viel schwerer Stücke zu prodzieren. Teile wurden gemacht, aber ich finden nichts, mitdem ich zufrieden bin, doch aufgeben ist nicht, was ich soll tuen.
 ## Planung 13.03.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Saskias Rain World Mod mitarbeiten.
-- [ ] Meine Rain World Mod arbeiten.
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Saskias Rain World Mod mitarbeiten.
+- [x] Blender nochmals üben.
+## Reflexion 13.03.2026
+Heute hab ich sehr viel mit Blender herum experimentiert, hat wirklich viel spass gemacht! Morgen ist mein Geburtstag :)
