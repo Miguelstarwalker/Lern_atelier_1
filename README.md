@@ -67,3 +67,7 @@ Ich und Musik. Musik. MMMMMMMMM. Ich produziere Musik für Saskia. Zwei Stücke 
 - [x] Meine Rain World Mod arbeiten.
 ## Reflexion 06.03.2026
 Heute war es viel schwerer Stücke zu prodzieren. Teile wurden gemacht, aber ich finden nichts, mitdem ich zufrieden bin, doch aufgeben ist nicht, was ich soll tuen.
+## Planung 13.03.2026
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Saskias Rain World Mod mitarbeiten.
+- [ ] Meine Rain World Mod arbeiten.
