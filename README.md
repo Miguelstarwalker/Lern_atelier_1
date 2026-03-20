@@ -73,7 +73,8 @@ Heute war es viel schwerer Stücke zu prodzieren. Teile wurden gemacht, aber ich
 - [x] Blender nochmals üben.
 ## Reflexion 13.03.2026
 Heute hab ich sehr viel mit Blender herum experimentiert, hat wirklich viel spass gemacht! Morgen ist mein Geburtstag :)
-<img width="669" height="524" alt="image" src="https://github.com/user-attachments/assets/0254cd5d-2851-40aa-92a5-2464de206cef" />
+<img width="602" height="471" alt="image" src="https://github.com/user-attachments/assets/0254cd5d-2851-40aa-92a5-2464de206cef" />
+<img width="732" height="394" alt="image" src="https://github.com/user-attachments/assets/13768024-0c29-4313-87dc-bb1e947a3a16" />
 
 ## Planung 20.03.2026
 - [ ] PC Kontrolle (Updates, mails, weiteres).
