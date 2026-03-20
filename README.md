@@ -84,3 +84,5 @@ Heute hab ich sehr viel mit Blender herum experimentiert, hat wirklich viel spas
 ## Reflexion 20.03.2026
 NEUES PROJEKT: POKEMON FAN GAME. Neuer type Slime type ich bin so glücklich.
 <img width="914" height="511" alt="image" src="https://github.com/user-attachments/assets/555d832c-5560-4de3-ba8b-c34b72e32c7c" />
+<img width="776" height="943" alt="image" src="https://github.com/user-attachments/assets/17ccff7b-e84d-489c-b261-954e18c5ce6e" />
+
