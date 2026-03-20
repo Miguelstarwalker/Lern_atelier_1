@@ -77,7 +77,10 @@ Heute hab ich sehr viel mit Blender herum experimentiert, hat wirklich viel spas
 <img width="732" height="394" alt="image" src="https://github.com/user-attachments/assets/13768024-0c29-4313-87dc-bb1e947a3a16" />
 
 ## Planung 20.03.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Saskias Rain World Mod mitarbeiten.
-- [ ] Blender nochmals üben.
-- [ ] (Persöhnliches Projekt (nicht Rainworld))?
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Saskias Rain World Mod mitarbeiten.
+- [x] Blender nochmals üben.
+- [x] (Persöhnliches Projekt (nicht Rainworld))?
+## Reflexion 20.03.2026
+NEUES PROJEKT: POKEMON FAN GAME. Neuer type Slime type ich bin so glücklich.
+<img width="914" height="511" alt="image" src="https://github.com/user-attachments/assets/555d832c-5560-4de3-ba8b-c34b72e32c7c" />
