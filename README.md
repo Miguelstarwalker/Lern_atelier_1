@@ -80,4 +80,4 @@ Heute hab ich sehr viel mit Blender herum experimentiert, hat wirklich viel spas
 - [ ] PC Kontrolle (Updates, mails, weiteres).
 - [ ] Saskias Rain World Mod mitarbeiten.
 - [ ] Blender nochmals üben.
-- [ ] (Persöhnliches Projekt (nicht Rainworld))
+- [ ] (Persöhnliches Projekt (nicht Rainworld))?
