@@ -89,5 +89,9 @@ NEUES PROJEKT: POKEMON FAN GAME. Neuer type Slime type ich bin so glücklich.
 - [x] PC Kontrolle (Updates, mails, weiteres).
 - [x] Microbit
 - [x] Blender nochmals üben.
-- [ ] Persöhnliches Pokemon Projekt
+- [x] Persöhnliches Pokemon Projekt
+## Reflexion 27.03.2026
+Als letzter Tag der Lernperiode habe ich einfach ständig weitergearbeitet. Ein ständiger Loop, Loop welches immer sich wiederholt, mindestens kann ich so weiter an Projekten arbeiten.
+<img width="822" height="800" alt="image" src="https://github.com/user-attachments/assets/dca225cd-fb69-4dd0-988b-348f88dcb79b" />
+LERNPERIODE ENDE
 
