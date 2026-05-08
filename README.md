@@ -1,7 +1,7 @@
 # Lern-Periode 4
 Name: Ferreira Gomes Miguel
 
-08.05.2026-???
+08.05.2026-26.06.2026
 
 ## Grob-Planung
 ### Noten
@@ -23,9 +23,6 @@ Ich möchte in dieser Lernperiode meine Rain World Mod weiter machen.
 Ich möchte in dieser Lernperiode mein Pokemon fangame weiter machen.
 
 ## Planung 08.05.2026
-
-
-
-
-
-
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Blender nochmals üben.
+- [ ] Persöhnliches Pokemon Projekt
