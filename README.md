@@ -23,7 +23,7 @@ Ich möchte in dieser Lernperiode meine Rain World Mod weiter machen.
 Ich möchte in dieser Lernperiode mein Pokemon fangame weiter machen.
 
 ## Planung 08.05.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [x] PC Kontrolle (Updates, mails, weiteres).
 - [x] Blender etwas selbst erstellen.
 - [ ] Persöhnliches Pokemon Projekt
 
