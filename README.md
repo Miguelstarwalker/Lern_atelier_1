@@ -31,7 +31,10 @@ Ich möchte in dieser Lernperiode mein Pokemon fangame weiter machen.
 Blender ist mein schlimmster Albtraum
 <img width="1311" height="787" alt="image" src="https://github.com/user-attachments/assets/238f3764-a7e1-437d-a847-f5362936125b" />
 
-## Planung 08.05.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Blender etwas selbst erstellen.
-- [ ] Persöhnliches Pokemon Projekt
+## Planung 22.05.2026
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Blender etwas selbst erstellen.
+- [x] Persöhnliches Pokemon Projekt
+
+## Reflexion 22.05.2026
+Nichts neues :(
