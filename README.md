@@ -38,3 +38,4 @@ Blender ist mein schlimmster Albtraum
 
 ## Reflexion 22.05.2026
 Nichts neues :(
+<img width="878" height="588" alt="image" src="https://github.com/user-attachments/assets/4a6bed9b-0962-42f2-a3eb-4609e78df689" />
