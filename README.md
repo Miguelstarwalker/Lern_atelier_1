@@ -41,7 +41,10 @@ Nichts neues :( (musste alte Version von Blender nützen)
 <img width="878" height="588" alt="image" src="https://github.com/user-attachments/assets/4a6bed9b-0962-42f2-a3eb-4609e78df689" />
 
 ## Planung 29.05.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Persöhnliches Pokemon Projekt (programm)
-- [ ] Persöhnliches Pokemon Projekt (designs)
-- [ ] Rained
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Persöhnliches Pokemon Projekt (programm)
+- [x] Persöhnliches Pokemon Projekt (designs)
+- [x] Rained
+
+## Reflexion 29.05.2026
+Concept design für neue Pokemon erstellt. :D
