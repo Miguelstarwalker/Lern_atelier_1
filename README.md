@@ -50,7 +50,11 @@ Nichts neues :( (musste alte Version von Blender nützen)
 Concept design für neue Pokemon erstellt. :D
 
 ## Planung 05.06.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Persöhnliches Pokemon Projekt (programm)
-- [ ] Persöhnliches Pokemon Projekt (designs)
-- [ ] Recherche an "Wie man ein .3dsx file erstellt"
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Persöhnliches Pokemon Projekt (programm)
+- [x] Persöhnliches Pokemon Projekt (designs)
+- [x] Recherche an "Wie man ein .3dsx file erstellt"
+
+## Reflexion 05.06.2026
+nächstes mal muss ich meine SD Karte mitnehmen, denn jetzt weiss ich, wie ich eigene Homebrew zu erstellen für meine 3DS.
+https://github.com/xem/3DShomebrew/wiki
