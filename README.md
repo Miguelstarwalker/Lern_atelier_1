@@ -48,3 +48,9 @@ Nichts neues :( (musste alte Version von Blender nützen)
 
 ## Reflexion 29.05.2026
 Concept design für neue Pokemon erstellt. :D
+
+## Planung 05.06.2026
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Persöhnliches Pokemon Projekt (programm)
+- [ ] Persöhnliches Pokemon Projekt (designs)
+- [ ] Recherche an "Wie man ein .3dsx file erstellt"
