@@ -56,7 +56,7 @@ Concept design für neue Pokemon erstellt. :D
 - [x] Recherche an "Wie man ein .3dsx file erstellt"
 
 ## Reflexion 05.06.2026
-nächstes mal muss ich meine SD Karte mitnehmen, denn jetzt weiss ich, wie ich eigene Homebrew zu erstellen für meine 3DS.
+Nächstes mal muss ich meine SD Karte mitnehmen (somit ich meine Dateien verändern und neue hinzufügen kann), denn jetzt weiss ich, wie ich eigene Homebrew zu erstellen für meine 3DS.
 https://github.com/xem/3DShomebrew/wiki
 
 
