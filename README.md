@@ -58,3 +58,10 @@ Concept design für neue Pokemon erstellt. :D
 ## Reflexion 05.06.2026
 nächstes mal muss ich meine SD Karte mitnehmen, denn jetzt weiss ich, wie ich eigene Homebrew zu erstellen für meine 3DS.
 https://github.com/xem/3DShomebrew/wiki
+
+
+## Planung 12.06.2026
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Persöhnliches Pokemon Projekt (programm)
+- [ ] Persöhnliches Pokemon Projekt (designs)
+- [ ] Arbeiten am 3DS homebrew
