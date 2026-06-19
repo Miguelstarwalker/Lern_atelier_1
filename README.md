@@ -70,7 +70,10 @@ https://github.com/xem/3DShomebrew/wiki
 -
 
 ## Planung 19.06.2026
-- [ ] PC Kontrolle (Updates, mails, weiteres).
-- [ ] Persöhnliches Pokemon Projekt (programm)
-- [ ] Persöhnliches Pokemon Projekt (designs)
-- [ ] Arbeiten am 3DS homebrew
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Persöhnliches Pokemon Projekt (programm)
+- [x] Persöhnliches Pokemon Projekt (designs)
+- [x] Arbeiten am 3DS homebrew
+
+## Reflexion 19.06.2026
+Habe heute nicht meine 3DS mitgenommen :/ hab aber gesehen, dass jemand ein Repo gemacht hat für Vieles "https://github.com/codecrafters-io/build-your-own-x" werde es später anschauen.
