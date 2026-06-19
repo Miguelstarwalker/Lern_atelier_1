@@ -68,3 +68,9 @@ https://github.com/xem/3DShomebrew/wiki
 
 ## Reflexion 12.06.2026
 -
+
+## Planung 19.06.2026
+- [ ] PC Kontrolle (Updates, mails, weiteres).
+- [ ] Persöhnliches Pokemon Projekt (programm)
+- [ ] Persöhnliches Pokemon Projekt (designs)
+- [ ] Arbeiten am 3DS homebrew
