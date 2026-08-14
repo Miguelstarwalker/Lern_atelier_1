@@ -20,7 +20,7 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 ## Planung 21.08.2026
 - [ ] 
-- [ ] 
+- [x] 
 - [ ] 
 ## Reflexion 21.08.2026
 -
