@@ -17,7 +17,7 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Ich möchte Stückweise ein Mini-spiel machen auf Paper RPG Maker, dazu möchte ich diese Periode als Zeit nehmen um Javascript zu weiterlernen.
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Die Modul vor der siebten Woche fertig haben,
+Die Modul vor der siebten Woche fertig haben
 
 ## Planung 21.08.2026
 - [ ] Repetieren, was ich im Modul 431 in der Woche gemacht habe (Flashcards)
