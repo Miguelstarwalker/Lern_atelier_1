@@ -20,8 +20,11 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 ## Planung 21.08.2026
 - [ ] 
-- [x] 
 - [ ] 
+- [x] PC Kontrolle (Updates, mails, weiteres).
+- [x] Persöhnliches Pokemon Projekt (programm)
+- [x] Persöhnliches Pokemon Projekt (designs)
+- [x] Arbeiten am 3DS homebrew
 ## Reflexion 21.08.2026
 -
 
